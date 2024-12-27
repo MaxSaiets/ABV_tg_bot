@@ -1,0 +1,29 @@
+/db/serviceAccountKey.json
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# Node.js
+node_modules/
+
+# Other
+.DS_Store
+*.log
